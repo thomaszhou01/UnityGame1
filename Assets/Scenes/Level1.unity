@@ -1312,6 +1312,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: Main Camera
       objectReference: {fileID: 0}
+    - target: {fileID: 4812083362911002399, guid: e28c1929544e767428e9c43477aff348,
+        type: 3}
+      propertyPath: m_FOVAxisMode
+      value: 0
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: e28c1929544e767428e9c43477aff348, type: 3}
 --- !u!1001 &6134019660368321274
@@ -1469,6 +1474,12 @@ PrefabInstance:
       propertyPath: m_Name
       value: End
       objectReference: {fileID: 0}
+    - target: {fileID: 8798022587144850379, guid: 1c8e3fa9a13184e4a9ac5b20e3d65949,
+        type: 3}
+      propertyPath: m_Icon
+      value: 
+      objectReference: {fileID: 7174288486110832750, guid: 0000000000000000d000000000000000,
+        type: 0}
     - target: {fileID: 8798022587144850380, guid: 1c8e3fa9a13184e4a9ac5b20e3d65949,
         type: 3}
       propertyPath: gameManager
